@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 // 백준 1697 숨바꼭질
-public class soom {
+public class bj1697_soom {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int K = sc.nextInt();
