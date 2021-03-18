@@ -1,6 +1,4 @@
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 public class pro_hash2 {
     public static void main(String[] args) {
